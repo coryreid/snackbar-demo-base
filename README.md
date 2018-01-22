@@ -1,6 +1,6 @@
 # snackbar-demo
 
-> A Vue.js project
+> Initial state for Vuetify Medium article.
 
 ## Build Setup
 
