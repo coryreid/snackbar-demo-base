@@ -1,6 +1,9 @@
 # snackbar-demo
 
+
 > Initial state for Vuetify Medium article.
+
+**NOTE:** Completed state can be found in the `completed` branch of the repo.
 
 ## Build Setup
 
